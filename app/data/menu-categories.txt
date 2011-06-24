@@ -1,0 +1,14 @@
+1|Appetizers|
+2|Soup|湯類
+3|Seafood|海鮮類	
+4|Chicken|雞類
+5|Egg (Foo Yong)|蛋類
+6|Beef|牛類
+7|The Hong Kong Sizzler|鐵板類
+8|Pork|豬類
+9|Curry|咖喱類
+10|To-fu (Bean Curd)|豆腐類
+11|Vegetarian|齋菜類
+12|Ho Fun Noodle and Rice|粉、麵、飯 類
+13|Hot Pot|煲仔菜
+14|Dessert|茶、咖啡、甜品

@@ -1,0 +1,248 @@
+
+body {
+	margin: 		0;
+	padding: 		0;
+	background: 	#8E0D0D url(../../images/page_bg.jpg) repeat-x;
+	font-size: 		12px;
+	font-family:	Arial, sans-serif;
+	color: 			#565656;
+}
+
+h1 {	
+	font-size:		16px;
+	color:			#8E0D0D;
+}
+
+.clearBoth {
+	clear:			both;
+}
+
+#wrapper {
+	text-align: 	left;
+	margin: 		auto;
+	width: 			788px;
+	position: 		relative;
+}
+#left-column {
+	position: 		relative;
+	top: 			0;
+	left: 			0;
+	width: 			268px;
+}
+#right-column {
+	position: 		absolute;
+	top: 			0;
+	left: 			260px;
+	width: 			520px;
+}
+#left-column-content {
+	background: 	url(../../images/jasminepalace1.jpg) no-repeat;	
+	height: 		740px;
+}
+#copyright {
+	color: 			white;	
+}
+#copyright p {
+	margin: 		0 1em 0 1em;
+	text-align: 	center;
+}
+
+#copyright a {	
+	color: 			#FFFFFF;
+	font-weight:	bold;
+	text-decoration:underline; 
+}
+
+
+
+
+#nav {
+	background: 	url(../../images/header.jpg) repeat-x;
+	height: 		105px;
+	border-right:	1px solid #5C0507;
+}
+#nav ul {
+	margin: 		0;	
+	padding: 		0;
+}
+#nav li {
+	float: 			left;
+	border-right: 	1px solid #A26A6B;
+	padding: 		78px 9px 9px 9px;
+	list-style: 	none;
+	width: 			66px;
+	text-align: 	center;
+}
+#nav li.last {
+	border-right: 	none;
+}
+#nav a {
+	color: 				#CECECE;
+	font-size: 			12px;
+	text-decoration:	none;
+}
+#nav a:hover {
+	text-decoration:	underline;
+}
+#nav .selected a {
+	text-decoration:	underline;
+}
+
+
+ul.pagination {
+	margin: 		0;	
+	padding: 		0;
+}
+ul.pagination li {
+	float: 			left;	
+	padding: 		2px;
+	list-style: 	none;
+}
+
+ul.pagination li a {
+	color: 				#555555;
+}
+
+ul.pagination li.selected a {
+	
+	font-size:			15px;
+	font-weight:		bold;	
+}
+
+.content-bg {
+	background-color:	#cccccc;
+	padding:			7px;
+	margin-left:		5px;
+}
+.content {
+	font-size:			12px;
+	background-color:	#ffffff;
+	padding:			10px;
+	height:				690px;
+}
+.scroll {
+	height: 			596px;
+	width: 				475px;
+	overflow: 			auto;	
+	padding: 			8px;
+}
+
+p {
+	text-align:			justify;
+	line-height:		1.4em;
+}
+p a {
+	color: 				#555555;
+}
+.content img.border {
+	border:				1px solid #999999;
+	padding: 			5px;	
+}
+.content .right {
+	float:				right;
+	margin: 			5px 0 5px 10px;
+}
+
+.content .left {
+	float:				left;
+	margin: 			5px 10px 5px 0;
+}
+
+ul.newslist {
+	padding-left: 		15px;
+	/*margin-left: 		10px;*/
+}
+ul.newslist li {
+}
+ul.newslist li a {
+	color: 				#555555;
+}
+
+.category-header {
+	border-bottom:		1px solid #999999;	
+	padding-bottom:		2px;
+}
+.category-title {
+	padding:			2px 20px 2px 20px;
+	background: 		url(../../images/grad1.gif) repeat-x;
+	color:				#eeeeee;
+	font-weight:		bold;
+	text-decoration:	underline;
+	border-left:		1px solid #999999;
+	border-top:			1px solid #999999;
+	border-right:		1px solid #999999;
+	
+}
+.category-content {
+	border-left:		1px solid #999999;
+	border-right:		1px solid #999999;
+	border-bottom:		1px solid #999999;
+}
+
+.even {
+	background-color:	#eeeeee;
+}
+.odd {
+	background-color:	#ffffff;
+}
+
+.clear {
+	clear: both;
+}
+
+
+.quote {
+	font-size:	20px;
+}
+
+.content-box-wide {
+	width:	100%;
+}
+.content-box-wide .content-box-left {
+	float: left;
+	width:	49%;
+	padding-bottom: 10px;	
+}
+.content-box-wide .content-box-right {
+	width:	50%;
+	padding-bottom: 10px;
+}
+
+.heading1 {
+	display: block;
+	font-weight: bold;
+	padding-bottom: 2px;
+}
+.content-box-wide ul {
+	list-style-type: none;
+	margin: 	0;
+	padding: 	0 0 0 20px;
+	line-height: 1.3em;
+}
+
+
+/*	Christmas Menu	*/
+.christmasMenu {
+	width:	397px;
+	padding: 0px 30px 0px 30px;
+	text-align:	center;
+	background-color: #CCDAE4;
+}
+.christmasMenu .info {
+	display: block;
+	font-weight: bold;
+}
+.christmasMenu .title {
+	display: block;
+	padding: 5px 0 0 0;	
+	font-weight: bold;
+	color:	#8E0D0D;
+}
+
+.christmasMenu .details {
+	display: block;
+}
+.christmasMenu a {
+	color:	#8E0D0D;
+	text-decoration: underlined;
+}

@@ -1,0 +1,153 @@
+1|Vegetable Spring Roll (3)|酥脆素春卷|R12.00
+1|Chicken Spring Roll (3)|雞絲春卷|R12.00
+1|Deep Fried Butterfly Prawns (4)|酥炸鳳尾蝦|R36.00
+1|Deep Fried Won Ton (6)|酥炸雲吞|R28.00
+1|Crispy Shrimps Crackers|香脆蝦片|R10.00
+2|Fish Maw Soup|三絲魚肚羮|R20.00
+2|Bart Bo Bean Curd Soup|八寶豆腐湯|R16.00
+2|Chicken Sweet Corn Soup|雞蓉粟米羹|R12.00
+2|Mushroom Chicken Soup|蘑菇雞湯|R15.00
+2|Sichuan Hot and Sour Soup|酸辣湯|R16.00
+2|Seafood Soup|海鮮湯|R18.00
+2|Prawn Won Ton Soup (5)|鮮蝦雲吞湯|R18.00
+2|Vegetable Bean Curd Soup|素菜豆腐湯|R15.00
+3|Spicy Prawns (In Shell,Spicy Hot)|椒鹽大明蝦|S.Q.
+3|Prawns in Tomato Sauce (In Shell)|茄汁大明蝦|S.Q.
+3|Prawns in Sweet Chilli Sauce (In Shell,Spicy Hot)|乾燒大明蝦|S.Q.
+3|Steamed Prawns with Garlic Sauce (In Shell)|蒜蓉蒸大蝦|S.Q.
+3|Fried Prawns with Fresh Chilli (Spicy Hot)|辣子蝦仁|R68.00
+3|Fried Prawns with Garlic Sauce (Spicy Hot)|魚香蝦仁|R68.00
+3|Fried Prawns with Cashew Nuts|腰果蝦仁|R68.00
+3|Fried "Kung Bo" Prawns with Dry Chilli (Spicy Hot)|公保蝦仁|R68.00
+3|Stir-fried Prawns with Eggs|滑蛋蝦仁|R68.00
+3|Stir-fried Prawns in Oyster Sauce|蠔油蝦仁|R68.00
+3|Deep Fried Prawns|酥炸明蝦|R68.00
+3|Sweet and Sour Prawns|甜酸大蝦|R68.00
+3|Prawns Chop Suey|蝦仁雜碎|R68.00
+3|Steamed Fish with Ginger and Spring Onion (whole)|清蒸鮮魚|S.Q.
+3|Sweet and Sour Kingklip in Cone Shape|五柳松子魚|S.Q.
+3|Braised Kingklip with Mushroom and Bean Sauce|紅燒魚塊|R88.00
+3|Deep Fried Kingklip with Sweet Corn Sauce|粟米魚塊|R88.00
+3|Spicy Squid|椒鹽焗鮮魷|R58.00
+3|Stir-fried Squid with Seasonal Greens|時菜炒鮮魷|R60.00
+3|Stir-fried Squid with Presevered Vegetable|味菜炒鮮魷|R68.00
+3|Stir-fried Squid with Black Bean Sauce|豉汁炒鮮魷|R60.00
+3|Mixed Seafood Chop Suey|海鮮雜碎|R68.00
+4|Deep Fried Crispy Skin Chicken (Whole Bird)|脆皮炸子雞|R95.00
+4|Soya Sauce Chicken (Whole Bird)|玫瑰豉油雞|R95.00
+4|Chicken with Ginger and Spring Onion (Whole Bird)|香葱油雞|R95.00
+4|Steamed Chicken (Whole Bird)|香滑白切雞|R95.00
+4|Stir-fried Chicken with Cashew Nuts|腰果雞丁|R58.00
+4|Deep Fried Chicken with Garlic and Sweet Sour Sauce|魚香雞柳|R60.00
+4|Stir-fried Chicken with Oyster Sauce|蠔油雞柳|R56.00
+4|Stir-fried Chicken with Black Bean Sauce|豉汁雞柳|R56.00
+4|Stir-fried Chicken with Green Pepper|青椒雞柳|R56.00
+4|Stir-fried Chicken with Pineapple|菠蘿雞柳|R56.00
+4|Stir-fried Chicken with Mushroom|蘑菇雞柳|R56.00
+4|Fried "Kung Bo" Chicken with Dry Chilli (Spicy Hot)|公保雞丁|R58.00
+4|Deep Fried Chicken with Lemon Sauce|檸檬雞塊|R56.00
+4|Sweet and Sour chicken|甜酸雞塊|R56.00
+4|Chicken Chop Suey|雞絲雜碎|R56.00
+4|Steamed Chicken with Chinese Mushroom in Lotus Leaves|荷葉蒸滑雞|R68.00
+4|Spicy Chicken Wings (Boneless)|椒鹽雞翼球|R60.00
+4|Sweet and Sour Chicken Wings in Cantonese Style (Boneless)|咕嚕雞翼球|R60.00
+5|Prawns Foo Yong|蝦仁炒蛋|R68.00
+5|Chicken Foo Yong|雞絲炒蛋|R56.00
+5|Beef Foo Yong|牛肉炒蛋|R56.00
+5|BBQ Pork Foo Yong|义燒炒蛋|R56.00
+5|Mushroom Foo Yong|蘑菇炒蛋|R52.00
+5|Vegetarian Foo Yong|菜蔬炒蛋|R52.00	
+6|Shanghai Beef|上海牛肉|R58.00
+6|Stir-fried Beef with Oyster Sauce|蠔油牛肉|R58.00
+6|Stir-fried Beef with Green Pepper|青椒牛肉|R58.00
+6|Stir-fried Beef with Black Bean Sauce|豉汁牛肉|R58.00
+6|Stir-fried Beef with Ginger and Spring Onion|薑葱牛肉|R58.00
+6|Stir-fried Beef with Pineapple|菠蘿牛肉|R58.00
+6|Stir-fried Beef with Satay Sauce|沙爹牛肉|R58.00
+6|Stir-fried Beef with Mushroom|蘑菇牛肉|R58.00
+6|Stir-fried Beef with Cashew Nuts|腰果牛肉|R60.00
+6|Stir-fried Beef with Seasonal Greens|時菜炒牛肉|R58.00
+6|Braised Beef Flank with Chee Hou Sauce|柱候牛腩|R58.00
+6|Deep Fried Beef with Garlic and Sweet Sour Sauce|魚香牛肉|R60.00
+6|Stir-fried Ox Ribs with Sichuan Popcorn (spicy hot)|川椒牛仔骨|R72.00
+6|Sweet and Sour Beef|甜酸牛肉|R58.00
+6|Peri-peri Beef|辣子牛肉|R58.00
+6|Beef Chop Suey|牛肉雜碎|R56.00
+7|Sizzling Ox Ribs with Black Pepper Sauce|黑椒牛仔骨|R60.00
+7|Sizzling Beef with Black Bean Sauce|豉汁牛肉|R60.00
+7|Sizzling Beef with Satay Sauce|沙爹牛肉|R60.00
+7|Sizzling Chicken with Satay Sauce|沙爹雞柳|R60.00
+7|Sizzling Pork with Satay Sauce|沙爹豬肉|R60.00
+8|Spicy Pork Chops|椒鹽焗豬扒|R65.00
+8|Pork Chops in "King Dou" Style|京都豬扒|R65.00
+8|Spicy Spare Ribs|椒鹽焗排骨|R60.00
+8|Steamed Spare Ribs with Black Bean Sauce|豉汁蒸排骨|R60.00
+8|Deep Fried Pork with Garlic and Sweet Sour Sauce|魚香肉片|R60.00
+8|Stir-fried Pork with Cashew Nuts|腰果肉丁|R60.00
+8|Stir-fried Pork with Green Pepper|青椒肉片|R56.00
+8|Stir-fried Pork with Black Bean Sauce Sauce|豉汁肉片|R56.00
+8|Stir-fried Pork with Satay Sauce|沙爹肉片|R56.00
+8|Stir-fried Pork with Pineapple|菠蘿肉片|R58.00
+8|Stir-fried Pork with Seasonal Greens|時菜炒肉片|R58.00
+8|Sweet and Sour Pork|甜酸豬肉|R56.00
+8|Sweet and Pork in Contonese Style|菠蘿咕嚕肉|R58.00
+8|Pork Chop Suey|豬肉雜碎|R56.00
+8|Steamed Pork with Salted Fish|咸魚蒸肉片|R65.00
+8|Stir Fried Pork Chops with Sichuan Peppercorns|川椒豬扒|R72.00
+9|House Special Curry|招牌咖喱|R68.00
+9|Prawns in Curry Sauce|咖喱蝦仁|R68.00
+9|Beef in Curry Sauce|咖喱牛肉|R58.00
+9|Chicken in Curry Sauce|咖喱雞柳|R58.00
+9|Mixed Vegetables in Curry Sauce|咖喱雜菜|R56.00
+10|Braised Bean Curd with BBQ Pork|紅燒豆腐|R56.00
+10|"Ma Po" Bean Curd with Minced Meat and Chilli Sauce|蔴婆豆腐|R56.00
+10|Braised Bean Curd with Beef|牛肉豆腐|R56.00
+10|Braised Bean Curd with Chicken|雞絲豆腐|R56.00
+10|Sweet and Sour Bean Curd|甜酸豆腐|R52.00
+10|Spicy Bean Curd|椒鹽焗豆腐|R52.00
+10|Crispy Bean Curd in Japanese style|和風脆豆腐|R52.00
+10|Steamed Bean Curd with Soya Sauce|清蒸豆腐|R42.00
+10|Steamed Bean Curd with Minced Prawns|百花蒸釀豆腐|R68.00
+10|Steamed Egg with Seafood and Chicken|翠棠豆腐|R68.00
+11|"Lo Han" Monks Vegetables|羅漢上素|R52.00
+11|Stewed Chinese Mushroom with Seasonal Greens|北菇扒時蔬|R60.00
+11|Stir-fried Seasonal Greens|炒時菜|R36.00
+11|Stir-fried Mixed Vegetables|炒雜菜|R36.00
+11|Stir-fried Bean Sprouts|炒豆芽|R36.00
+11|Stir-fried Sliced Celery, Carrot, Bamboo Shoot, Black Fungus and Dry Bean Curd|炒素雜錦|R52.00
+12|Won Ton Noodles in Soup|雲吞麵|R25.00
+12|Meat Dumpling in Contonese Style (One Dozen)|廣東水餃每打|R48.00
+12|Chicken Chow Mein|雞絲炒麵|R45.00
+12|Pork Chow Mein|肉絲炒麵|R45.00
+12|Beef Chow Mein|牛肉炒麵|R45.00
+12|Prawns Chow Mein|蝦仁炒麵|R68.00
+12|Seafood Chow Mein|海鮮炒麵|R75.00
+12|Seafood Udong|海鮮烏冬麵|R98.00
+12|Seasonal Chow Mein|海鮮炒麵|R68.00
+12|Combination Chow Mein|雜錦炒麵|R68.00
+12|Stir-fried Ribs with Black Bean Sauce on Chow Mein|豉汁排骨炒麵|R48.00
+12|Stir-fried Mein with Soya Sauce|豉油皇炒麵|R38.00
+12|Stir-fried Ho Fun with Beef (Dry)|乾炒牛河|R48.00
+12|Stir-fried Rice Noodles in "Singapore" Style|星州炒米|R48.00
+12|Stir-fried Rice Noodles in "Amoy" Style|厦門炒米|R48.00
+12|Stir-fried Rice with Minced Beef|生炒牛肉飯|R48.00
+12|Yeung Chow Special Fried Rice|楊州炒飯|R48.00
+12|Stir-fried Rice with Chicken and Pineapple|菠蘿雞絲炒飯|R56.00
+12|Fried Rice with Salted Fish and Chicken|咸魚雞粒炒飯|R56.00
+12|Egg Fried Rice|雞蛋炒飯|R15.00
+12|Steamed Rice|香滑米飯|R8.00
+12|Plain Noodles in Soup|爽滑蛋麵|R15.00
+13|Stuffed Bean Curd with Minced Fish in Hot Pot|東江豆腐煲|R56.00
+13|Salted Fish and Chicken with Bean Curd in Hot Pot|咸魚雞粒豆腐煲|R58.00
+13|Braised Eggplant with Minced Meat in Hot Pot (Spicy Hot)|魚香茄子煲|R56.00
+13|Beef and Bean Thread with Satay Sauce in Hot Pot|沙爹牛肉粉絲煲|R58.00
+13|Dry Shrimps and Mixed Vegetables with Bean Thread in Hot Pot|蝦米粉絲雜菜煲|R58.00
+13|Seafood and Bean Curd in Hot Pot|海鮮豆腐煲|R72.00
+13|Combination Bean Curd Hot Pot|雜錦豆腐煲|R72.00
+14|Chinese Tea|中國茗茶|R5.00
+14|Coffee|香濃咖啡|R8.50
+14|Ice-Cream|香滑雪糕|R15.00
+14|Ice-cream with Lychee|荔枝雪糕|R20.50
+14|Lychee|清甜荔枝|R15.00
+14|Bowtie|鬆化蛋散|R5.00
+14|Deep Fried Milk|酥炸鮮奶|R25.00

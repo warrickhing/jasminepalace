@@ -1,0 +1,7 @@
+## Folders to ignore
+.settings
+
+## Files to ignore
+.buildpath
+.htaccess
+.project
