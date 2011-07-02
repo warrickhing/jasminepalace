@@ -56,7 +56,7 @@
 <p>
 	<?php
 		for ($iRand=0; $iRand < sizeOf($aRand); $iRand++) {
-			echo '<span class="quote">&ldquo;</span>'.$aFeedback[$aRand[$iRand]]["comment"].'<span class="quote">&rdquo;</span> <a href="'.$SITEROOT.'feedback/?page='.$aFeedback[$aRand[$iRand]]["page"].'">Read More</a><br /><br />';
+			echo '<span class="quote">&ldquo;</span>'.$aFeedback[$aRand[$iRand]]["comment"].'<span class="quote">&rdquo;</span> <a href="'.SITEROOT.'feedback/?page='.$aFeedback[$aRand[$iRand]]["page"].'">Read More</a><br /><br />';
 		}
 	?>
 </p>
