@@ -1,5 +1,5 @@
 <?php	 
-	if (strpos(getcwd(),'jasminepalace.co.nz') > 0) {
+	if (strpos(getcwd(),'jasminepalace.co.za') > 0) {
 		/*
 		 * 	PRODUCTION SETTINGS
 		 *  ===================
