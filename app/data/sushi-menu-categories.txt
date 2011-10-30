@@ -1,0 +1,8 @@
+15|Sushi Platters|
+16|Nigiri A La Carte (2 pieces)|
+17|Maki Sushi (Rolled Sushi 4 pieces)|
+18|Maki (Rolled Sushi 8 pieces)|
+19|Temaki (Hand Roll)|
+20|Sashimi (Selection of sliced Raw Fish)|
+21|Sashimi A La Carte (5 slices )|
+22|Side Orders|

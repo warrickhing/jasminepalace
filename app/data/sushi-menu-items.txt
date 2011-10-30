@@ -1,0 +1,45 @@
+15|Maki Platter- California Roll (4), Prawn & Avo Roll (4), Avo Maki (4), Salmon Maki (4)||R70.00
+15|Maki Platter- California Roll(4),Salmon & Avo Roll(4), Hot & Spicy Roll(4),Rainbow Roll(4)||R102.00
+15|Nigiri Combination- Nigiri (6) California roll (4) and 4 pieces Sashimi (4 Chef’s choice)||R148.00
+15|Salmon Combination- Nigiri (4) Battleship (2) Rainbow Roll (4) Maki (4) Sashimi (5)||R180.00
+16|Shake (Scottish Salmon)||R36.00
+16|Salmon Roses (3)||R48.00
+16|Tai (Local Fish)||R30.00
+16|Ebi (Prawn)||R32.00
+16|Ikura (Salmon Roe)||R48.00
+16|Tobiko (Caviar)||R48.00
+16|Tamago (Egg Omelette)||R28.00
+16|Kanikama (Crab Stick)||R28.00
+16|Inari Tofu (Bean Curd Skin)||R36.00
+17|Futo Maki ( Omelette, Crab, Prawn, Cucumber & Gourd Skin )||R48.00
+17|LI’s Special ( Salmon, Crab, Avocado, Prawn, Caviar, Cucumber & Mayonnaise)||R56.00
+17|Salad Maki (Lettuce, Cucumber, Avocado, Carrot, Gourd Skin & Spring Onion )||R38.00
+18|Shake Maki (Salmon Roll)||R30.00
+18|Kappa Maki ( Cucumber Roll )||R20.00
+18|Oshinko Maki ( Japanese Pickle Roll )||R22.00
+18|Kanpyo Maki ( Japanese Gourd skin Roll )||R22.00
+18|Ume Kyu Maki ( Japanese Plum & Cucumber )||R24.00
+18|Avocado Maki||R20.00
+18|California Roll(Crab, Avocado, Prawn, Caviar, Cucumber & Mayonnaise)||R48.00
+18|New York Roll ( Prawn & Avocado )||R42.00
+18|Alaska Roll ( Salmon & Avocado )||R48.00
+18|Hot & Spicy Roll ( Salmon, Spring Onion, Chilli Powder, Sesame oil & Mayonnaise )||R52.00
+18|Rainbow Roll ( Salmon, Avocado, Cucumber, Crab and Mayonnaise )||R56.00
+18|Fashion Sandwich ( Salmon, Avocado, Lettuce and Mayonnaise )||R52.00
+19|Ebi Temaki ( Prawn, Avocado, Cucumber & Mayonnaise )||R36.00
+19|California Temaki ( Crab, Avocado, Prawn, Cucumber, Caviar & Mayonnaise )||R42.00
+19|Salad Temaki ( Lettuce, Spring Onion, Cucumber, Avocado, Gourd Skin & Carrot )||R32.00
+19|Hot & Spicy Temaki (Salmon, Spring Onion, Chilli Powder, Sesame Oil & Mayonnaise)||R42.00
+19|Golden Mushroom Temaki ( Golden Mushroom, Lettuce, Ginger & Spring Onion )||R36.00
+20|Sashimi Regular – 12 slices ( Chef’s Choice)||R140.00
+21|Shake ( Scottish Salmon )||R60.00
+21|Hamachi ( Yellow Tail )||R52.00
+21|Tai ( Local Fish )||R48.00
+22|Sunimono ( Seafood, Cucumber, & Seaweed in a Vinegar Dressing )||R65.00
+22|Miso Soup ( Soya Bean Paste Soup )||R20.00
+22|Rice ( Steamed Rice )||R15.00
+22|Ocha ( Japanese Tea )||R15.00
+22|Sake ( Japanese Rice Wine )||R50.00
+22|Kirin Beer ( Japanese Beer )||R28.00
+22|Extra Wasabi||R8.00
+22|Extra Ginger||R10.00

@@ -250,3 +250,9 @@ ul.newslist li a {
 	color:	#8E0D0D;
 	text-decoration: underlined;
 }
+
+
+/*Carousel*/
+div.gallery img {
+    border: solid 1px white;
+}

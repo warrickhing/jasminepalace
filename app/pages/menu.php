@@ -60,28 +60,30 @@
 	for ($iMenuCategories=0;$iMenuCategories<count($menuCategories);$iMenuCategories++) {
 		$menuCategoryID		= $menuCategories[$iMenuCategories]["menu_category_id"];
 		$menuItemCounter	= 0;
-		
-		echo '<div class="category-header">';
-		echo '	<a href="javascript:void(0);" onclick="javascript:toggleShowHide(\'dspCategory_'.$iMenuCategories.'\');">';
-		echo '		<span class="category-title">'.$menuCategories[$iMenuCategories]["title_en"].'</span>';
-		echo '	</a>';
-		echo '</div>';
-		
-		echo '<div id="dspCategory_'.$iMenuCategories.'" class="category-content" style="display:block;">';
-		echo '<table width="100%">';
-		//echo 	'<tr><td width="70%"></td><td width="20%"></td><td width="10%"></td></tr>';	
-		echo 	'<tr><td width="70%"></td><td width="30%"></td></tr>';
-		foreach ($menuItems[$menuCategoryID] as $menuItem) {
-			if ($menuItemCounter % 2 == 0) {$class="even";} else {$class="odd";}
-			echo '<tr class="'.$class.'">';
-			echo "	<td>" . $menuItem['title_en'] . "</td>";
-			echo "	<td>" . $menuItem['title_ch'] . "</td>";
-			//echo "	<td>" . $menuItem['price'] . "</td>";
-			echo "</tr>";
-			$menuItemCounter++;
+
+		if (array_key_exists($menuCategoryID,$menuItems)) {
+			echo '<div class="category-header">';
+			echo '	<a href="javascript:void(0);" onclick="javascript:toggleShowHide(\'dspCategory_'.$iMenuCategories.'\');">';
+			echo '		<span class="category-title">'.$menuCategories[$iMenuCategories]["title_en"].'</span>';
+			echo '	</a>';
+			echo '</div>';
+			
+			echo '<div id="dspCategory_'.$iMenuCategories.'" class="category-content" style="display:block;">';
+			echo '<table width="100%">';
+			//echo 	'<tr><td width="70%"></td><td width="20%"></td><td width="10%"></td></tr>';	
+			echo 	'<tr><td width="70%"></td><td width="30%"></td></tr>';
+			foreach ($menuItems[$menuCategoryID] as $menuItem) {
+				if ($menuItemCounter % 2 == 0) {$class="even";} else {$class="odd";}
+				echo '<tr class="'.$class.'">';
+				echo "	<td>" . $menuItem['title_en'] . "</td>";
+				echo "	<td>" . $menuItem['title_ch'] . "</td>";
+				//echo "	<td>" . $menuItem['price'] . "</td>";
+				echo "</tr>";
+				$menuItemCounter++;
+			}
+			echo "</table>";
+			echo "</div><br />";
 		}
-		echo "</table>";
-		echo "</div><br />";
 		
 	}
 	

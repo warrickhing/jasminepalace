@@ -8,6 +8,11 @@
 		 * */
 		define("SITEROOT","/");		
 	} else {
+		/*
+		 * 	DEVELOPMENT SETTINGS
+		 *  ===================
+		 *   
+		 * */
 		define("SITEROOT","/jasminepalace/");		
 	}
 ?>
