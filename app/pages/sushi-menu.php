@@ -47,8 +47,8 @@
 */
 
 	echo '<h1>Sushi Menu</h1>';
-	echo '<strong>Sushi Special: Mon & Sun - less 15% for cash payments or less 10% for card payments.</strong> ';
-	echo '(All items are seasonal and not always available)';
+	//echo '<strong>Sushi Special: Mon & Sun - less 15% for cash payments or less 10% for card payments.</strong> ';
+	echo 'All items are seasonal and not always available<br /><br />';
 
 /*
 	echo '<p><div class="gallery">';

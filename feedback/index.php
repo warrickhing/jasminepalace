@@ -1,5 +1,5 @@
 <?php
 	$template	= "feedback.php";
-	$nav_item	= 5;	
+	$nav_item	= 6;	
 	require("app/templates/index.php");	
 ?>

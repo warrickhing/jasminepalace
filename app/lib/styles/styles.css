@@ -68,9 +68,9 @@ h1 {
 #nav li {
 	float: 			left;
 	border-right: 	1px solid #A26A6B;
-	padding: 		78px 9px 9px 9px;
+	padding: 		78px 10px 9px 10px;
+	display:		block;	
 	list-style: 	none;
-	width: 			66px;
 	text-align: 	center;
 }
 #nav li.last {
