@@ -70,14 +70,14 @@
 			
 			echo '<div id="dspCategory_'.$iMenuCategories.'" class="category-content" style="display:block;">';
 			echo '<table width="100%">';
-			//echo 	'<tr><td width="70%"></td><td width="20%"></td><td width="10%"></td></tr>';	
-			echo 	'<tr><td width="70%"></td><td width="30%"></td></tr>';
+			echo 	'<tr><td width="70%"></td><td width="20%"></td><td width="10%"></td></tr>';	
+			//echo 	'<tr><td width="70%"></td><td width="30%"></td></tr>';
 			foreach ($menuItems[$menuCategoryID] as $menuItem) {
 				if ($menuItemCounter % 2 == 0) {$class="even";} else {$class="odd";}
 				echo '<tr class="'.$class.'">';
 				echo "	<td>" . $menuItem['title_en'] . "</td>";
 				echo "	<td>" . $menuItem['title_ch'] . "</td>";
-				//echo "	<td>" . $menuItem['price'] . "</td>";
+				echo "	<td>" . $menuItem['price'] . "</td>";
 				echo "</tr>";
 				$menuItemCounter++;
 			}
