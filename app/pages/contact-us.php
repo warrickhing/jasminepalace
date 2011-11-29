@@ -15,7 +15,7 @@
 			<ul>
 				<li>11:00 - 14:30, 17:00 - 21:30 everyday and we are close on Tuesdays</li>
 			</ul>
-		</div>		
+		</div>				
 	</div>
 
 	<div class="content-box-wide">
@@ -24,6 +24,12 @@
 			<ul>
 				<li>Shop 3<br />Cnr. Duvernoy and Niesewand Street<br />Constantia Park<br />Pretoria</li>
 			</ul>			
+		</div>
+		<div class="content-box-left">
+			<span class="heading1">Christmas trading hours</span>
+			<ul>
+				<li>We will be closed from 25 - 27 Dec 2011 and 1 - 3 Jan 2012</li>
+			</ul>
 		</div>
 		<div class="content-box-left">
 			<span class="heading1">Add Jasmine Palace to your TomTom</span>
