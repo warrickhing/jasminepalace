@@ -25,12 +25,14 @@
 				<li>Shop 3<br />Cnr. Duvernoy and Niesewand Street<br />Constantia Park<br />Pretoria</li>
 			</ul>			
 		</div>
+		<!---
 		<div class="content-box-left">
 			<span class="heading1">Christmas trading hours</span>
 			<ul>
 				<li>We will be closed from 25 - 27 Dec 2011 and 1 - 3 Jan 2012</li>
 			</ul>
 		</div>
+		--->
 		<div class="content-box-left">
 			<span class="heading1">Add Jasmine Palace to your TomTom</span>
 			<ul>
